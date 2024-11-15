@@ -21,9 +21,6 @@ function App() {
     <nav style={styles.navbar}>
           <ul style={styles.navList}>
             <li style={styles.navItem}>
-              <Link to="/" style={styles.navLink}>
-                <img src={Logo} alt="Logo" style={styles.logo} />
-              </Link>
             </li>
             <li style={styles.navItem}><Link to="/" style={styles.buttonLink}>Home</Link></li>
             <li style={styles.navItem}><Link to="/login" style={styles.buttonLink}>Sign In</Link></li>
@@ -70,10 +67,6 @@ const styles = {
     color: '#fff',
     display: 'flex',
     alignItems: 'center',
-  },
-  logo: {
-    width: '70px', // Make the logo bigger
-    marginRight: '5px', // Adjust the margin to move the logo to the right
   },
   buttonLink: {
     padding: '10px 20px', // Add horizontal padding for better spacing
