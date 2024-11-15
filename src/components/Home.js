@@ -211,7 +211,7 @@ const Home = () => {
         <div style={styles.contactInfo}>
           <p>123 Main Street, Cityville, State, 12345</p>
           <p>Phone: (123) 456-7890</p>
-          <p>Email: ethnus@gmail.com</p>
+          <p>Email: abcd@gmail.com</p>
         </div>
 
         
