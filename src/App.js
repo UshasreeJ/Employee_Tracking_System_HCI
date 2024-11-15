@@ -10,7 +10,6 @@ import More from "./components/More";
 import Dashboard from "./components/Dashboard";
 import Home from "./components/Home";
 import Admin from "./components/Admin";
-import Logo from './images/logo.jpg';
 import ForgotPassword from "./components/ForgotPassword";
 import ChangePassword from "./components/ChangePassword";
 
